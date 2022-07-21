@@ -1,0 +1,51 @@
+ /* universal selector */
+  /* *{
+    background-color: aqua;
+} */
+
+/* element selector */
+/* a{
+    text-decoration: none;
+} */
+/* button{
+    background-color: #367;
+} */
+/* h1,h2{
+    color:bisque;
+} */
+
+/* id selector */
+/* #catagories {
+background-color:rgb(48, 177, 177);
+color: rgb(5, 60, 227);
+} */
+
+/* #signup{
+   background-color:rgb(99, 41, 206);
+} */
+
+/* class selector */
+/* .data{
+    color: green;
+} */
+
+/* descendend selector */
+/* ul li{
+    color:chocolate;
+} */
+
+/* the attribute selector */
+/* input[type="search"]{
+    color:brown;
+} */
+
+/* pseudo clas */
+/* a:hover{
+    text-decoration: underline wavy black;
+    color:brown;
+} */
+ 
+/* pseudo element */
+p::first-line{
+    font-size: x-large;
+}

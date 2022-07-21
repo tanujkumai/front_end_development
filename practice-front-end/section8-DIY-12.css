@@ -1,0 +1,11 @@
+div{
+    align-items: center;
+    width: 210px;
+    border: 1px solid gray;
+    border-radius: 5px;
+}
+img{
+width: 200px;
+border-radius: 50%;
+border: 5px solid rgb(236 183, 191);
+}
