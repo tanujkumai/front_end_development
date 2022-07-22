@@ -1,0 +1,23 @@
+section{
+    width: 500px;
+    height: 500px;
+    background-color: magenta;
+}
+div {
+    width: 50%;
+    height: 50%;
+   background-color: rgb(255, 255, 255,0.5);
+}
+main {
+    width: 500px;
+    height: 500px;
+   background-color:rgba(197, 17, 32, 0.5);
+   
+}
+
+main div{
+    width: 50%;
+    height: 50%;
+    background-color: rgb(14, 121, 133);
+   opacity: 0.4;
+}
