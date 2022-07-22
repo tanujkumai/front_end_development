@@ -13,7 +13,7 @@
  }
 
  #board {
-    display: flex;
+    display: inline-flex;
     flex-direction: row;
     flex-wrap: wrap;
 } 
