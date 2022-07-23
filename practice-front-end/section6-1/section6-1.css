@@ -1,0 +1,24 @@
+h2{
+    color: aqua;
+}
+
+p{
+color: black;
+background-color: aliceblue;
+}
+p{
+    line-height: 2cm;
+}
+h1{
+    text-align: center;
+    font-weight:400;
+    text-decoration: burlywood underline wavy;
+    letter-spacing:20px;
+  color:   rgb(64,78,89) ;
+  font-size: 50px;
+  font-family:'Courier New', Courier, monospace;
+}
+body{
+    background-color: #ebf8ffb2;
+    /* hexadecimal color palette */
+}
